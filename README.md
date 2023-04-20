@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Werner Holanda 
+### Hi there 👋, I'm Werner Holanda 👨‍💻
  
 -Im 28 yrs, ex-lawyer, migrating carrer to Tech area.
 <br>
