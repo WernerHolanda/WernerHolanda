@@ -1,10 +1,20 @@
-### Hi there 👋, I'm Werner Holanda 👨‍☕💻
+<div>
+ <p align="left">
+  <img align="right" height="390em" src="https://github.com/WernerHolanda/My-social-links/blob/main/v.0.3.2%20-my-social-links/.github/dark-light.gif" height="590em">
+ </img>
+</p>
+
+
+<p align="left" max-width="700px">### Hi there 👋, I'm Werner Holanda 👨‍☕💻
  
 -Im 28 yrs, ex-lawyer, migrating carrer to Tech area.
 <br>
 -I'm currently improving my Full-Stack skills 📈.
 <br> 
 -Full-Stack Developer, initialy frontend. 
+<br>
+-🔭 Checkout my first dev/working at your right side --> 
+<br> 
 
 - 📫 How to reach me: 
 
@@ -14,7 +24,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dvaice.werner@gmail.com)
 
 - 🌱 Programming Languages & Frameworks : 
-<div>
+ <div>
   <img align="center" alt="werner-html" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 
   <img align="center" alt="werner-css" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
@@ -24,8 +34,12 @@
   <img align="center" alt="werner-html" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 
   <img align="center" alt="werner-html" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"/>
-</div>
+  </p> 
 
+</div>
+ 
+
+</div>
 
 <!--
 **WernerHolanda/WernerHolanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
