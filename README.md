@@ -1,6 +1,6 @@
 <div>
  <p align="left">
-  <img align="right" height="390em" src="https://github.com/WernerHolanda/My-social-links/blob/main/v.0.3.2%20-my-social-links/.github/dark-light.gif" height="590em">
+  <img align="right" height="390em" src="https://github.com/WernerHolanda/My-social-links/blob/main/DOCS/.github/dark-light.gif" height="590em">
  </img>
 </p>
 
