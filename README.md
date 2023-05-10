@@ -7,7 +7,7 @@
 
 <p align="left" max-width="700px">### Hi there 👋, I'm Werner Holanda 👨‍☕💻
  
--Im 28 yrs, ex-lawyer, migrating carrer to Tech area.
+-Im 28 yrs, lawyer, migrating carrer to Tech area.
 <br>
 -I'm currently improving my Full-Stack skills 📈.
 <br> 
