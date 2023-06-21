@@ -37,6 +37,8 @@
   
   <img align="center" alt="react" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 
+  <img align="center" alt="react" height="30" widht="40" src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/c95f84e5857c3c4378c08b8d876277c12003de6d/public/logos/nextjs.svg"/>
+
   <img align="center" alt="node-js" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"/>
     
   </p> 
