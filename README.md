@@ -1,8 +1,10 @@
+<!-- 
 <div>
  <p align="left">
   <img align="right" height="390em" src="https://github.com/WernerHolanda/My-social-links/blob/main/DOCS/.github/dark-light.gif" height="590em">
  </img>
 </p>
+-->
 
 
 <p align="left" max-width="700px">### Hi there 👋, I'm Werner Holanda 👨‍☕💻
@@ -13,8 +15,8 @@
 <br> 
 -Full-Stack Developer, initialy frontend. 
 <br>
--🔭 Checkout my first dev/working at your right side --> 
-<br> 
+<!-- -🔭 Checkout my first dev/working at your right side --> 
+<br> -->
 
 - 📫 How to reach me: 
 
