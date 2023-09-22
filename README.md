@@ -22,7 +22,7 @@
 
 [![Discord Badge](https://img.shields.io/badge/-Discord-ff3a5e?style=for-the-badge&logo=Discord&logoColor=FFF)](https://discordapp.com/users/392067356198830082)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/holandawerner)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/werner-holanda-4b1322194/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/werner-holanda-964293291/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:werner.holanda.dev@gmail.com)
 
 - 🌱 Programming Languages & Frameworks : 
